@@ -5,4 +5,4 @@ cai jiang tao is studying git
 Git is free software distributed under the GPL
 
 Git is is is is 
-Git track changes
+Git track changes of files
